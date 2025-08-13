@@ -34,9 +34,9 @@
 </style>
 </head>
 <body>
-  <h1>Happy Birthday Momos api</h1>
+  <h1>🥳Happy Birthday Momos api🦉</h1>
   <p>May Allah live you long and give success or many many chocolate</p>
-  <button onclick="launchConfetti()">🎉 Confetti</button>
+  <button onclick="launchConfetti()">Touch Me🥳</button>
 
   <canvas id="confettiCanvas" style="position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;"></canvas>
 
